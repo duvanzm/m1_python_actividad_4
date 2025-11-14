@@ -1,11 +1,11 @@
 # 4. Playlist — Detectar géneros repetidos
-# Instrucciones
 
+# Instrucciones
 # Preguntar cuántas canciones ingresará
 # Ingresar cada género musical
-# Objetivo
 
-# Mostrar géneros repetidos sin duplicarlos en la salida
+# Objetivo
+# Encontrar géneros repetidos sin duplicarlos en la salida
 while True:
 
     list_songs = []

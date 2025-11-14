@@ -1,10 +1,10 @@
 # 3. Gimnasio “ProFit” — Registrar asistencia semanal
-# Instrucciones
 
+# Instrucciones
 # El usuario ingresa cuántas semanas quiere registrar
 # Por cada semana: ingresar cuántos días entrenó
-# Reglas de puntos
 
+# Reglas de puntos
 # ≥ 5 días → +10 puntos
 # 3–4 días → +5 puntos
 # < 3 días → +2 puntos

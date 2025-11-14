@@ -1,13 +1,13 @@
 # 1. Supermercado “DataMarket” — Registrar productos válidos y total
-# Instrucciones
 
+# Instrucciones
 # Preguntar cuántos productos ingresará el usuario
 # Por cada producto solicitar:
 # nombre
 # precio
 # ¿está vencido? (sí/no)
-# Objetivo
 
+# Objetivo
 # Guardar solo los NO vencidos
 # Sumar su costo total
 

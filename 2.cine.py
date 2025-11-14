@@ -1,10 +1,10 @@
 # 2. Cine — Clasificar películas según duración
-# Instrucciones
 
+# Instrucciones
 # Preguntar cuántas películas hay
 # Ingresar la duración de cada una
-# Clasificación
 
+# Clasificación
 # < 100 min → “Corta”
 # 100–150 min → “Media”
 # 150 min → “Larga”
