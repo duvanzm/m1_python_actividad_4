@@ -33,6 +33,7 @@ while True:
                     print("Vuelve a intentar")
                     print("***********************")
                     break
+            print("")
             print("-----------------------------")
             print("Habitaciones Libres: ")
             print("----------------------------")
@@ -42,6 +43,7 @@ while True:
                 else:
                     num_busy = num_busy +1
                 if i[1] == "s":
+                    print("--------------------")
                     print(f"habitacion: {i[0]} ===> libre")
                     print("--------------------")
             print("ocupadas vs libres: ")
